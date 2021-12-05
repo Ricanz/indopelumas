@@ -30,8 +30,6 @@
                                         <?php echo $d["deskripsi"]; ?>
                                     </div>
                                 </div>
-  <?php
-  } ?>
                             </div>
                         </div>
                     </div>
